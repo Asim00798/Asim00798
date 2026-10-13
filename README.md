@@ -6,7 +6,7 @@
 
 **C# · .NET · ASP.NET Core**
 
-Building maintainable backend systems with clean architecture and domain-driven design, with foundational frontend skills in React, JavaScript, and TypeScript.
+Building maintainable backend systems with clean architecture and domain-driven design, with additional experience in web and desktop application development.
 
 <br/>
 
@@ -25,9 +25,11 @@ Building maintainable backend systems with clean architecture and domain-driven 
 
 I'm a software engineer focused on backend development with C# and the .NET ecosystem. I enjoy designing reliable, maintainable applications with clear architectural boundaries and well-defined business logic.
 
-My primary interest is backend engineering, while my frontend foundation allows me to work across different parts of an application.
+My primary interest is backend engineering, complemented by web application development, desktop application development, and foundational frontend skills.
 
 * 🔹 Backend development with **C#, .NET, and ASP.NET Core**
+* 🔹 Web development with **ASP.NET Core MVC and Web API**
+* 🔹 Desktop application development with **.NET**
 * 🔹 Clean Architecture and Domain-Driven Design
 * 🔹 Modular monolith architecture and selective CQRS
 * 🔹 Database design and persistence with Entity Framework Core
@@ -46,7 +48,8 @@ My primary interest is backend engineering, while my frontend foundation allows 
 </div>
 
 * **Language:** C#
-* **Framework:** .NET 8, ASP.NET Core Web API
+* **Framework:** .NET 8, ASP.NET Core
+* **Web development:** ASP.NET Core Web API, ASP.NET Core MVC
 * **Data access:** Entity Framework Core
 * **Database:** Microsoft SQL Server
 * **Architecture:** Clean Architecture, Domain-Driven Design, CQRS
@@ -55,7 +58,13 @@ My primary interest is backend engineering, while my frontend foundation allows 
 * **Background processing:** Hangfire
 * **Additional technologies:** Redis, SignalR, Serilog
 
-### 🎨 Frontend Development — Foundational Skills
+### 🖥️ Desktop Application Development
+
+* **Platform:** .NET
+* **Language:** C#
+* **Application development:** Windows desktop applications
+
+### 🌐 Frontend Development — Foundational Skills
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="HTML, CSS, JavaScript, TypeScript, and React"/>
@@ -122,6 +131,8 @@ I'm interested in the engineering decisions that make software easier to maintai
 * **Application reliability:** Idempotency, failure handling, and background processing
 * **Performance:** Query optimization, caching, and read-model design
 * **Security:** Authentication, authorization, and secure application configuration
+* **Web development:** Server-rendered applications with ASP.NET Core MVC
+* **Desktop development:** Building Windows applications with .NET
 * **Frontend fundamentals:** Component-based UI development and API integration with React
 
 ---
